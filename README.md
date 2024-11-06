@@ -35,8 +35,6 @@ To some extent, this project structure resembles graphs, integrating multiple da
    ```bash
    git clone https://github.com/your-username/N-Labs-P-PC-s.git
 
-## How to Run
-
 2. **Compile `main.cpp`**:
    
    ```bash
